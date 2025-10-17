@@ -1,0 +1,71 @@
+body {
+  background-image: url(municipal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: auto;
+    width: auto;
+    border-radius: 10%;
+    z-index: -1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  
+}
+
+
+.login-form h1 {
+  Font-weight: bold;
+  Color: #333;
+  text-align: center;
+}
+
+.login-form .form-label {
+  Font-weight: bold;
+  display: block;
+  Color: #666;
+  align-content: center;    
+}
+
+.login-form .form-control {
+  Border-radius: 5px;
+  Border: 1px solid #3910ce;
+  Padding: 10px;
+  width: 275px;
+}
+
+.mb-1{
+    text-align: center;
+    color: #333;
+}
+
+.login-form .btn-primary  {
+  Background-color: #4CAF50;
+  Border: none;
+  Padding: 12px 20px;
+  Font-size: 16px;
+  Cursor: pointer;
+  text-align: center;
+   }
+
+  .form-select  {
+      Background-color: orange;
+      Border: none;
+      Font-size: 16px;
+      Cursor: pointer;
+      text-align: center;
+      align-items: center;
+  }
+  .btn{
+padding-left: 100px;
+}
+
+.login-form .btn-primary:hover {
+  Background-color: #3e8e41;
+}
+
+

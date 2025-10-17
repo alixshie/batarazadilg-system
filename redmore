@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+    <meta charset=”UTF-8”>
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+    <link rel=”stylesheet” href=”styles.css”>
+    <title>Monitoring and Evaluation</title>
+</head>
+<body>
+    <header>
+        <img src=”header_image.png” alt=”Header Image” class=”header-image”>
+        <h1>MONITORING AND EVALUATION</h1>
+    </header>
+
+    <main>
+        <section class=”reference”>
+            <img src=”scorecard_reference.png” alt=”Lomed Scorecard Reference”>
+            <h2>Lomed Scorecard Reference</h2>
+            <img src=”audit_results.png” alt=”Audit Results”>
+            <h2>Audit Results</h2>
+        </section>
+
+        <section class=”frequency”>
+            <div class=”time-period”>
+                <img src=”daily_icon.png” alt=”Daily”>
+                <p>Daily</p>
+            </div>
+            <div class=”time-period”>
+                <img src=”weekly_icon.png” alt=”Weekly”>
+                <p>Weekly</p>
+            </div>
+            <div class=”time-period”>
+                <img src=”monthly_icon.png” alt=”Monthly”>
+                <p>Monthly</p>
+            </div>
+            <div class=”time-period”>
+                <img src=”quarterly_icon.png” alt=”Quarterly”>
+                <p>Quarterly</p>
+            </div>
+            <div class=”time-period”>
+                <img src=”semester_icon.png” alt=”Semestral”>
+                <p>Semestral</p>
+            </div>
+            <div class=”time-period”>
+                <img src=”one_shot_icon.png” alt=”One Shot”>
+                <p>One Shot</p>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
+
+
